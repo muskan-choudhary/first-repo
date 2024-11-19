@@ -1,1 +1,2 @@
-# first-repo
+data structure and algorithms 
+c programming language 
